@@ -38,3 +38,8 @@ All on a single composite plot.
 
 PNG images are automatically saved in:
 
+figures/
+combined_gain_nf_te.png
+gain_db.png
+noise_figure_db.png
+

@@ -1,4 +1,38 @@
-numpy
-matplotlib
-scipy
-jupyterlab
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Dependencies:
+- Python 3.10+
+- NumPy
+- SciPy
+- Matplotlib
+- JupyterLab
+
+---
+
+## How to Run
+
+1. Open **lna_nf_sim.ipynb** in JupyterLab  
+2. Run all cells top to bottom  
+3. Output PNG figures will appear in `/figures`  
+4. Review:
+   - LNA gain shape  
+   - NF curve  
+   - Equivalent noise temperature  
+   - Combined visualization  
+
+---
+
+## 🧭 Purpose of This Project
+
+This notebook is part of a longer-term RF Test Automation portfolio initiative.  
+The goal is to grow a collection of simulation-based RF measurements using Python to demonstrate analytical skills, signal-chain understanding, and automation capability relevant to RF & hardware testing jobs.
+
+---
+
+## 📌 Author
+
+Mithun Dhar  
+Master's in Wireless Communications & RF Systems, Tampere University  
