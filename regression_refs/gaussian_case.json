@@ -1,0 +1,10 @@
+{
+    "case": "gaussian_case",
+    "model": "gaussian",
+    "center_gain_db": 20.0,
+    "avg_gain_db": 4.006832200640492,
+    "center_nf_db": 1.2,
+    "avg_nf_db": 1.2078276289959156,
+    "te_center_K": 92.29445418135803,
+    "bw_3db_Hz": NaN
+}

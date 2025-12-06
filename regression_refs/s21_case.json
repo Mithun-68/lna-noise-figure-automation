@@ -1,0 +1,10 @@
+{
+    "case": "s21_case",
+    "model": "s21",
+    "center_gain_db": 20.0,
+    "avg_gain_db": 16.035342826006495,
+    "center_nf_db": 1.2,
+    "avg_nf_db": 1.2078276289959156,
+    "te_center_K": 92.29445418135803,
+    "bw_3db_Hz": 40600000.0
+}
